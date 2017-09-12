@@ -5,5 +5,5 @@ package br.edu.utfpr.pg.projeto;
  */
 
 public class pessoa {
-
+    private String nome;
 }
