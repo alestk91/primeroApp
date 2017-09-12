@@ -6,4 +6,6 @@ package br.edu.utfpr.pg.projeto;
 
 public class pessoa {
     private String nome;
+  private String endereco;
+    private int idade;
 }
