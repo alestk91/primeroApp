@@ -5,8 +5,12 @@ package br.edu.utfpr.pg.projeto;
  */
 
 public class pessoa {
-    private String nome;
-    private String endereco;
-    private int idade;
-    private boolean ativo;
+
+    public long id;
+    public String nome;
+    public String cpf;
+    public int idade;
+
+
+
 }
