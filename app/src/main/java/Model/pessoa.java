@@ -1,4 +1,4 @@
-package br.edu.utfpr.pg.projeto;
+package Model;
 
 /**
  * Created by Alessandro on 31/08/2017.
