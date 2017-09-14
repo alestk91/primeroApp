@@ -1,8 +1,6 @@
 package Model;
 
-/**
- * Created by Alessandro on 31/08/2017.
- */
+
 
 public class Pessoa {
 
